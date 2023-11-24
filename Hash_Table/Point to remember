@@ -1,0 +1,4 @@
+1. If we have something in the string, lowecase or uppercase, use maps in vectors, vector<int> mpp (256, -1) with the size of 256.
+2. Whenever you have something in the addition, and target like target = n, and you are given one value and have to find the another value, then 
+use a = 0, b = target-a;.
+3. To compare two maps use mpp1==mpp2.
